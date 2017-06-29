@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba1f9f34-6060-41f9-9ba4-97ca0c433e0a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/For 一些前端同学的疑惑.md" afterPath="$PROJECT_DIR$/For 一些前端同学的疑惑.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/[旧博客存档] CSS浮动面面观.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/[旧博客存档] 关于前端的那些事.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JavaScript-Functions.md" afterPath="$PROJECT_DIR$/[旧博客存档] JavaScript-Functions.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JavaScript-Objects.md" afterPath="$PROJECT_DIR$/[旧博客存档] JavaScript-Objects.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="osmn00.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,12 +29,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="For 一些前端同学的疑惑.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="For 一些前端同学的疑惑.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/For 一些前端同学的疑惑.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="1065">
                 <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="[旧博客存档] CSS浮动面面观.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/[旧博客存档] CSS浮动面面观.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="3930">
+                <caret line="262" column="0" selection-start-line="262" selection-start-column="0" selection-end-line="262" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="[旧博客存档] 关于前端的那些事.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/[旧博客存档] 关于前端的那些事.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="257">
+                <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -52,6 +88,8 @@
         <option value="$PROJECT_DIR$/JavaScript-Functions.md" />
         <option value="$PROJECT_DIR$/JavaScript-Objects.md" />
         <option value="$PROJECT_DIR$/For 一些前端同学的疑惑.md" />
+        <option value="$PROJECT_DIR$/CSS浮动面面观.md" />
+        <option value="$PROJECT_DIR$/关于前端的那些事.md" />
       </list>
     </option>
   </component>
@@ -186,12 +224,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1498717792189</updated>
-      <workItem from="1498717794281" duration="270000" />
+      <workItem from="1498717794281" duration="398000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="270000" />
+    <option name="totallyTimeSpent" value="398000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1276" height="777" extended-state="6" />
@@ -239,7 +277,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript-Functions.md">
+    <entry file="file://$PROJECT_DIR$/[旧博客存档] JavaScript-Functions.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="572">
@@ -253,7 +291,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript-Objects.md">
+    <entry file="file://$PROJECT_DIR$/[旧博客存档] JavaScript-Objects.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="527">
@@ -272,6 +310,34 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="1065">
             <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[旧博客存档] CSS浮动面面观.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="3930">
+            <caret line="262" column="0" selection-start-line="262" selection-start-column="0" selection-end-line="262" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[旧博客存档] 关于前端的那些事.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="257">
+            <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
