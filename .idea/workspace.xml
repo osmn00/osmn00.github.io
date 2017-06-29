@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba1f9f34-6060-41f9-9ba4-97ca0c433e0a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/For 一些前端同学的疑惑.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript-Functions.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript-Objects.md" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/For 一些前端同学的疑惑.md" afterPath="$PROJECT_DIR$/For 一些前端同学的疑惑.md" />
     </list>
     <ignored path="osmn00.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,28 +25,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="JavaScript-Objects.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaScript-Objects.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="527">
-                <caret line="907" column="125" selection-start-line="907" selection-start-column="125" selection-end-line="907" selection-end-column="125" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="For 一些前端同学的疑惑.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/For 一些前端同学的疑惑.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="572">
-                <caret line="910" column="0" selection-start-line="910" selection-start-column="0" selection-end-line="910" selection-end-column="0" />
+              <first_editor relative-caret-position="1065">
+                <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -205,12 +186,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1498717792189</updated>
-      <workItem from="1498717794281" duration="179000" />
+      <workItem from="1498717794281" duration="270000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="179000" />
+    <option name="totallyTimeSpent" value="270000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1276" height="777" extended-state="6" />
@@ -289,8 +270,8 @@
     <entry file="file://$PROJECT_DIR$/For 一些前端同学的疑惑.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="572">
-            <caret line="910" column="0" selection-start-line="910" selection-start-column="0" selection-end-line="910" selection-end-column="0" />
+          <first_editor relative-caret-position="1065">
+            <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
